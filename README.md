@@ -1,6 +1,6 @@
 <H3>Name: KANDUKURI GOUTHAM/H3>
 <H3>Register no: 212223110019</H3>
-<H3>Date: 18/09/2025/H3>
+<H3>Date: 18/09/2025</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
